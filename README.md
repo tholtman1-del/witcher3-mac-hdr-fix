@@ -1,5 +1,7 @@
 # Witcher 3 HDR Fix for Mac
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2J527ZLUN)
+
 Turns off the washed-out HDR in **The Witcher 3: Wild Hunt** (Next-Gen / Remastered) when you play it on a Mac with **CrossOver** or **Whisky**. Works for the **Steam** and **GOG** versions. You install it with one double-click.
 
 ## The problem
