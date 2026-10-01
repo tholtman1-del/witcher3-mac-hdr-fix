@@ -4,6 +4,10 @@
 
 Turns off the washed-out HDR in **The Witcher 3: Wild Hunt** (Next-Gen / Remastered) when you play it on a Mac with **CrossOver** or **Whisky**. Works for the **Steam** and **GOG** versions. You install it with one double-click.
 
+![Before: HDR forced on, washed-out sky. After: with the fix, normal contrast and colours.](docs/comparison.jpg)
+
+*Same spot in White Orchard. With HDR forced on, the menu shows "HDR Settings". With the fix, the game treats the screen as SDR and shows "Gamma" instead.*
+
 ## The problem
 
 On a Mac with an HDR screen (MacBook Pro with a Liquid Retina XDR display, Pro Display XDR, HDR monitors), CrossOver tells the game that the screen is an HDR10 display. The game then **always** renders in HDR:
